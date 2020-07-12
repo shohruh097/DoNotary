@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DoNotary.iml" filepath="$PROJECT_DIR$/.idea/DoNotary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-donotary/app-donotary.iml" filepath="$PROJECT_DIR$/app-donotary/app-donotary.iml" />
     </modules>
   </component>
 </project>
